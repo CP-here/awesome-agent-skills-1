@@ -243,7 +243,7 @@ Official skills for ML workflows.
 #### Skills by Tinybird
 - [tinybirdco/tinybird-best-practices](https://agent-skill.co/tinybirdco/skills/tinybird-best-practices) - Tinybird project guidelines for datasources, pipes, endpoints, and SQL
 - [tinybirdco/tinybird-cli-guidelines](https://agent-skill.co/tinybirdco/skills/tinybird-cli-guidelines) - Tinybird CLI usage guidelines and commands
-- [tinybirdco/tinybird-typescript-sdk-guidelines](https://agent-skill.co/tinybirdco/skills/tinybird-typescript-sdk-guidelines) - Tinybird TypeScript SDK usage guidelines and commands
+- [tinybirdco/tinybird-typescript-sdk-guidelines](https://agent-skill.co/tinybirdco/skills/tinybird-typescript-sdk-guidelines) - Tinybird TypeScript SDK usage guidelines
 
 ---
 
